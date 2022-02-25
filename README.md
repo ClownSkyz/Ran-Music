@@ -1,4 +1,4 @@
-<h2 align="centre">Kyy Music Player</h2>
+<h2 align="centre">🎧 𝐑𝐚𝐧-𝐌𝐮𝐬𝐢𝐜 🎧</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/2b610c918dec590d2777b.jpg">
