@@ -1,7 +1,7 @@
 <h2 align="centre">🎧 𝐑𝐚𝐧-𝐌𝐮𝐬𝐢𝐜 🎧</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/2b610c918dec590d2777b.jpg">
+  <img src="https://telegra.ph/file/3786098873a6190366ce7.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
